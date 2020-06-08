@@ -582,10 +582,10 @@ span {
 /* .section-speech:hover {
   opacity: 1;
 } */
-.portfolio-card:hover .photo::before {
+/* .portfolio-card:hover .photo::before {
   transform: translateY(0);
   opacity: 1;
-}
+} */
 .portfolio-card:hover .section-speech {
   transform: translateY(0);
   opacity: 1;
